@@ -4,4 +4,4 @@ Tải python chạy
 pip install -r file.txt
 >run
 >python main.py
-
+ldplayer 960x540
